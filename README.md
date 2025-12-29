@@ -1,7 +1,7 @@
 <h1>Jogo do número secreto</h1>
 
 <h2>( ͡❛ ͜ʖ ͡❛) 👉Sobre</h2>
-<p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
+<p>Projeto utilizado no curso de programação da Alura, carreira desenvolvimento Back-End Python.</p>
 
 ## ( ͡❛ ͜ʖ ͡❛) Tecnologias
 <div>
